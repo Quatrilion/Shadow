@@ -1,3 +1,6 @@
-pip3 install requests
-pip3 install aiohttp prettytable
-pip3 install pyfiglet dnspython whois
+requests
+aiohttp
+prettytable
+pyfiglet
+dnspython
+whois
